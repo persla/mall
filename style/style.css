@@ -1,0 +1,38 @@
+html {
+    background-color: lightgray;
+    font-family: 'Raleway', sans-serif;
+    min-height: 800px;
+}
+
+body {
+    margin: 8px auto;
+    background: #fff;
+    width: 800px;
+}
+
+/* main {
+    min-height: 600px;
+} */
+
+section {
+    border-top: 2px solid gray;
+}
+
+article {
+    padding: 10px;
+}
+
+nav {
+    padding: 10px;
+    border: 2px solid darkgreen;
+}
+
+header {
+    padding: 8px;
+}
+
+footer {
+    border-top: solid 2px darkgreen;
+    padding: 10px;
+    text-align: center;
+}
